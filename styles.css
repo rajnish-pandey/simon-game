@@ -3,11 +3,18 @@ body {
   background-color: #011F3F;
 }
 
+footer {
+  text-align: center;
+  color: white;
+  font-size: 1rem;
+  font-family: 'Press Start 2P', cursive;
+}
+
 #level-title {
   font-family: 'Press Start 2P', cursive;
-  font-size: 3rem;
-  margin:  30px;
-  color: #FEF2BF;
+  font-size: 2rem;
+  margin:  15px;
+  color: white;
 }
 
 .container {
@@ -18,7 +25,7 @@ body {
 }
 
 .btn {
-  margin: 20px;
+  margin: 15px 15px 8px 15px;
   display: inline-block;
   height: 150px;
   width: 150px;
