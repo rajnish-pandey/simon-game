@@ -39,7 +39,7 @@ footer {
   border-radius: 20%;
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-device-width: 650px) {
   .btn {
       height: 100px;
       width: 100px;
