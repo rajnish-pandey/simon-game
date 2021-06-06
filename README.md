@@ -77,8 +77,8 @@ e.g. If the user has pressed red, green, red, yellow, the index of the last answ
 final JavaScript file:
 
 ``
-    var buttonColours = ["red", "blue", "green", "yellow"];
 
+    var buttonColours = ["red", "blue", "green", "yellow"];
     var gamePattern = [];
     var userClickedPattern = [];
 
